@@ -1,4 +1,4 @@
-web-audio-mhd14barcelona
+talk-rich-media
 ========================
 
-Slides for a talk about the Web Audio API at Music Hack Day 2014 in Barcelona
+Slides for a talk in french about the Web APIs for rich media
